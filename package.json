@@ -1,0 +1,19 @@
+{
+  "name": "starterkit",
+  "version": "1.0.0",
+  "description": "Com esse app você pode medir suas calorias de modo muito simples.",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [],
+  "author": {
+    "name": "Kaique",
+    "email": "gottium@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  },
+  "private": true
+}
